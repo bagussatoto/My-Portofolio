@@ -52,7 +52,7 @@
   git clone https://github.com/bagussatoto/My-Portofolio.git
   ``` 
   
-- <code>cd pusat karir</code>
+- <code>cd my-portofolio</code>
     
     ```bash
     cd My-Portofolio
